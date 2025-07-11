@@ -1,5 +1,5 @@
 import React, { memo, useEffect, useState } from "react";
-import { getAuthData } from "../../../context";
+import { getAuthData } from "../../context";
 import { FiUserPlus, FiUser, FiMail, FiLock } from "react-icons/fi";
 import toast from "react-hot-toast";
 

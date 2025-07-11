@@ -1,5 +1,5 @@
 import React from "react";
-import { getAuthData } from "../../context";
+import { getAuthData } from "../context";
 
 function Footer() {
   const { theme } = getAuthData();

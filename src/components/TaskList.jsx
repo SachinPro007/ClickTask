@@ -1,6 +1,6 @@
 import React, { memo, useState } from "react";
 import { TaskListCard } from "./index";
-import { getAuthData } from "../../context";
+import { getAuthData } from "../context";
 import { FiPlus, FiFilter } from "react-icons/fi";
 
 function TaskList({ textClass }) {

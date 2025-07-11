@@ -6,8 +6,8 @@ import {
   AddNewEmployee,
   AddNewTask,
   Footer,
-} from "../other";
-import { getAuthData } from "../../context";
+} from "../components";
+import { getAuthData } from "../context";
 import { FiPlus, FiUserPlus, FiList } from "react-icons/fi";
 
 function AdminDashboard() {

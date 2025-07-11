@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { UserSelector } from "../other";
+import { UserSelector } from "../index";
 import {
   FaUser,
   FaLock,

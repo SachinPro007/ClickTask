@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { getAuthData } from "../../context";
+import { getAuthData } from "../context";
 import { FaUserShield, FaUserTie, FaUser, FaCopy } from "react-icons/fa";
 
 const UserSelector = ({ theme }) => {

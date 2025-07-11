@@ -1,5 +1,5 @@
 import React, { memo } from "react";
-import { getAuthData } from "../../context";
+import { getAuthData } from "../context";
 import ThemeToggle from "./ThemeToggleBtn";
 import { FiLogOut, FiUser } from "react-icons/fi";
 import { image } from "framer-motion/client";

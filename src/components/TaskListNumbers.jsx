@@ -1,5 +1,5 @@
 import React, { memo, useEffect, useState } from "react";
-import { getAuthData } from "../../context";
+import { getAuthData } from "../context";
 import {
   FiLayers,
   FiCheckSquare,

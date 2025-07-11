@@ -1,5 +1,5 @@
 import React, { memo, useState, useMemo } from "react";
-import { getAuthData } from "../../context";
+import { getAuthData } from "../context";
 import {
   FiUser,
   FiFilter,
@@ -10,7 +10,7 @@ import {
 } from "react-icons/fi";
 import { motion, AnimatePresence } from "framer-motion";
 import EmployeeTaskCardList from "./admin/EmployeeTaskCardList";
-import { generateRelativeDates } from "../../helper/helperFunctions";
+import { generateRelativeDates } from "../helper/helperFunctions";
 
 function AdminEmployeeTaskStatus({ styleClass }) {
   const { textClass } = styleClass;

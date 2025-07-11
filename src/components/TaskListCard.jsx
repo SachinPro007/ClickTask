@@ -1,5 +1,5 @@
 import React, { memo, useEffect, useState } from "react";
-import { getAuthData } from "../../context/AuthProvider";
+import { getAuthData } from "../context/AuthProvider";
 import {
   FaCheck,
   FaPlus,

@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { getAuthData } from "../../context";
+import { getAuthData } from "../context";
 import { FaMoon, FaSun } from "react-icons/fa";
 
 const ThemeToggle = () => {

@@ -1,4 +1,4 @@
-import { getLocalStorage } from "../utils/localStorage";
+import { getLocalStorage } from "../data/localStorage";
 
 export const generateRelativeDates = (tasks) => {
   const { employeesData } = getLocalStorage();

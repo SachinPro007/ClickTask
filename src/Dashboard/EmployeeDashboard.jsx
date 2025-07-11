@@ -1,6 +1,6 @@
 import React from "react";
-import {Header, TaskList, TaskListNumbers, Footer} from '../other/index'
-import { getAuthData } from "../../context";
+import {Header, TaskList, TaskListNumbers, Footer} from '../components'
+import { getAuthData } from "../context";
 
 
 
