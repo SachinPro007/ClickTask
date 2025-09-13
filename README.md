@@ -53,8 +53,7 @@
 | State Management  | ![Context API](https://img.shields.io/badge/Context_API-React_Core-blue)         |
 | Styling           | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.3-%2338B2AC?logo=tailwind-css) |
 | UI Components     | Headless UI, Custom Design System                                                |
-| Notifications     | ![React Toastify](https://img.shields.io/badge/React_Toastify-9.0-%23E57470)     |
-| Forms             | React Hook Form + Yup Validation                                                 |
+| Notifications     | ![React Toastify](https://img.shields.io/badge/React_Toastify-9.0-%23E57470)     |                                           |
 | Icons             | ![React Icons](https://img.shields.io/badge/React_Icons-4.7-%23E91E63)           |
 
 
